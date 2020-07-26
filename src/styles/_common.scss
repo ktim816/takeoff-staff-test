@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.form {
+  padding: 25px;
+  width: 100%;
+  border: 1px solid color('border');
+  border-radius: 2px;
+  background-color: color('light');
+}
